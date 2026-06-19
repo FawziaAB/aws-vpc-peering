@@ -1,8 +1,6 @@
 VPC Peering Inter-Régions sur AWS
 Mise en place d'une connexion réseau privée entre deux VPC AWS situés dans deux régions différentes, avec validation de la connectivité de bout en bout.
-Auteure : Fawzia Aboubakar — Mastère Expert Informatique & SI, EPSI Lyon
-Module : Réseaux & Cloud Computing
-Date : Juin 2026
+
 ---
 Objectif du projet
 Établir une connexion privée (VPC Peering) entre deux VPC AWS aux CIDR disjoints, situés dans deux régions différentes, en travaillant en binôme — chacun administrant son propre VPC — puis valider la connectivité par un test réseau réel.
